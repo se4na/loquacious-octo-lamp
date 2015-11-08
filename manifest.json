@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "🌝ﾂｷﾖﾐﾁﾙ",
+  "description": "ツキヨミチル",
+
+  "version": "2015.6.17.82",
+
+  "icons": [
+    {
+      "src":  "img/apple-touch-icon-144x144-precomposed.png",
+      "sizes":  "144x144",
+      "type":  "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}

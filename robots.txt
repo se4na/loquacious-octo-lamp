@@ -1,0 +1,10 @@
+User-agent: *
+#Allow: /
+Disallow: /
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /*/index.html
+Disallow: /a/
+Disallow: /d/
+
+Sitemap: https://xn--28j8b.xn--0-6i6bp45a.com/sitemap.xml

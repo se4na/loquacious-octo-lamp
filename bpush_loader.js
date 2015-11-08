@@ -1,0 +1,1 @@
+"use strict";(function(){function b(){if(typeof(document.readyState)==="undefined"){return}if(document.readyState==="complete"){a()}else{setTimeout(b,10)}}function a(){var c=document.createElement("iframe");c.src="/bpush.html";c.style.display="none";document.body.appendChild(c)}b()})();
